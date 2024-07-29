@@ -8,7 +8,7 @@
 I'm a front-end developer!
 
 I am 25 years old, I live and work in Chile.
-I made my first website when I was 14 years old, I am currently studying software engineering.
+I made my first paid website when I was 14, I am currently studying software engineering.
 
 - My full name is **Cristian Ugarte** but my nickname is donnachie.
 - 🏫: I'm in my second year of software engineering.
@@ -16,7 +16,6 @@ I made my first website when I was 14 years old, I am currently studying softwar
   
  <br>
 
-🛠️ My Skills
 ***
 
 ### 👉 Languages ​​and frameworks
@@ -35,13 +34,3 @@ I made my first website when I was 14 years old, I am currently studying softwar
 
 [![My Skills](https://skillicons.dev/icons?i=vite,vitest,vscode,git,vercel,cloudflare,figma,apple,arduino)](https://skillicons.dev)
 
-
-***
-
- <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-</picture>  
