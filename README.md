@@ -21,7 +21,7 @@ I made my first website when I was 14 years old, I am currently studying softwar
 
 ### 👉 Languages ​​and frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,redux,swift,astro,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,redux,swift,astro)](https://skillicons.dev)
 
 ### 👉 Styles
 
@@ -29,7 +29,7 @@ I made my first website when I was 14 years old, I am currently studying softwar
 
 ### 👉 Back-end
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,nodejs,java)](https://skillicons.dev)
 
 ### 👉 Others
 
