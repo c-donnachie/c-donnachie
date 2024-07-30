@@ -8,9 +8,10 @@
 I'm a front-end developer!
 
 I am 25 years old, I live and work in Chile.
-I made my first paid website when I was 14, I am currently studying software engineering.
+I made my first paid website when I was 14 years old,
+currently I am a software engineering student.
 
-- My full name is **Cristian Ugarte** but my nickname is donnachie.
+- ⚛️ My full name is **Cristian Ugarte** but my nickname is donnachie.
 - 🏫: I'm in my second year of software engineering.
 - ⚡ Fun fact: I love snowboring 🏂
   
