@@ -13,7 +13,7 @@ currently I am a software engineering student.
 
 - ⚛️ My full name is **Cristian Ugarte** but my nickname is donnachie.
 - 🏫: I'm in my second year of software engineering.
-- ⚡ Fun fact: I love snowboring 🏂
+- ⚡ Fun fact: I love Snowboarding 🏂
   
  <br>
 
